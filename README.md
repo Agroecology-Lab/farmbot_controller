@@ -19,7 +19,7 @@ The `farmbot_controller` package communicates with the FarmBot hardware and exec
 
 Before setting up the `farmbot_controller` package, ensure the following:
 
-- **ROS2 Installation**: Install ROS2 on your system. Instructions can be found in the [ROS2 installation guide](https://docs.ros.org/en/foxy/Installation.html).
+- **ROS2 Installation**: Install ROS2 on your system. Instructions can be found in this [ROS2 installation script](https://github.com/linorobot/ros2me).
 - **FarmBot Hardware**: A fully operational FarmBot setup is required.
 - **Dependencies**: Ensure that all dependencies are met as defined in the `package.xml`.
 
