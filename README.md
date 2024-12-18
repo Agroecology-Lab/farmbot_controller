@@ -1,8 +1,3 @@
-Got it! Let's update everything to focus on ROS2, since ROS1 is indeed EOL (End of Life).
-
-Here’s the revised documentation for using `farmbot_controller` with **ROS2**:
-
----
 
 # FarmBot ROS Controller Documentation
 
@@ -91,6 +86,3 @@ For questions or issues, please open an issue in the GitHub repository, and we'l
 
 The `farmbot_controller` package is open-source and released under the MIT License. See the `LICENSE` file for more details.
 
----
-
-Feel free to reach out if you need more updates or help with specific instructions!
